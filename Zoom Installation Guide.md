@@ -29,7 +29,7 @@
 
 Zoom is a video conferencing tool used for online meetings, webinars, and virtual collaboration. This document provides instructions for installing, setting up, and using the Zoom Desktop Client on supported operating systems.
 
-![Zoom Logo](Zoom-Logo-PNG-Download-Image.png)
+<img src="Zoom-Logo-PNG-Download-Image.png" alt="Zoom Logo" width="200" height="200">
 
 <div style="page-break-after: always;"></div>
 
