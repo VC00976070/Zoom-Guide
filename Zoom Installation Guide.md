@@ -2,6 +2,8 @@
 <div style="page-break-after: always;"></div>
 
 ## Table of Contents
+- [ZOOM - User Guide](#zoom---user-guide)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Prerequisites](#prerequisites)
   - [System Requirements](#system-requirements)
@@ -36,7 +38,6 @@ Zoom is a video conferencing tool used for online meetings, webinars, and virtua
 
 Before installation, ensure the following:
 - You have access to a reliable internet connection
-- name: A
 - You have administrator rights on your device
 - Your operating system is compatible (see next section)
 <div style="page-break-after: always;"></div>
