@@ -2,9 +2,6 @@
 <div style="page-break-after: always;"></div>
 
 ## Table of Contents
-
-- [ZOOM - User Guide](#zoom---user-guide)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Prerequisites](#prerequisites)
   - [System Requirements](#system-requirements)
