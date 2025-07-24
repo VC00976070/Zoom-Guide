@@ -38,7 +38,6 @@ Zoom is a video conferencing tool used for online meetings, webinars, and virtua
 
 Before installation, ensure the following:
 - You have access to a reliable internet connection
-- name: B
 - You have administrator rights on your device
 - Your operating system is compatible (see next section)
 <div style="page-break-after: always;"></div>
